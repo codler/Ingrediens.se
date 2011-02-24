@@ -12,10 +12,10 @@
 
 <!-- css -->
 <link rel="stylesheet" type="text/css" href="/yap-goodies/css/global2.css" />
-<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/themes/ui-lightness/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css" />
 
 <!-- javascript -->
-<script src="http://static.zencodez.net/js.php?f=jquery-1.5,jquery-ui-1.8.9,css3finalize-latest"></script>
+<script src="http://static.zencodez.net/js.php?f=jquery-1.5,jquery-ui-1.8,css3finalize-latest"></script>
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
